@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 Over the course of four years, I've immersed myself in fast-paced projects at renowned companies such as Meta and Bet365, acquiring a versatile skill set. It was during these engagements that my passion for data ignited, fueling my relentless curiosity to uncover insights that drive strategic business decisions.
 
