@@ -23,4 +23,4 @@ Also,
 
 ### Let's connect:
 
-[<img align="left"  width="22px" src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/linkedin-original-wordmark.svg" />](https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/)
