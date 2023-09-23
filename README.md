@@ -12,10 +12,10 @@ Also,
 #### Tools :
 
 <p>
-<img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/Microsoft-Excel-logo-2.png" title="Sheets"  alt="Sheets" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/Microsoft-Excel-logo-2.png" title="Sheets"  alt="Sheets" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/Power-BI.png" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/jupyter-original-wordmark.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EmiliaLopez/EmiliaLopez/blob/main/Images/tableau-software.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
