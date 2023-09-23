@@ -6,7 +6,7 @@ I am genuinely delighted to have uncovered this exciting world of possibilities 
 
 
 Also,
-- ✨ I'm a hiking lover and running make me feel free and challenged.
+- ✨ I'm a hiking and running lover because both activities make me feel free and challenged.
 - 📫 You can reach me at elopezreviriego17@gmail.com
 
 #### Tools :
