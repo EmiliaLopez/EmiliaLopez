@@ -23,4 +23,4 @@ Also,
 
 ### Let's connect:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/)
