@@ -4,6 +4,7 @@ Over the course of four years, I've immersed myself in fast-paced projects at re
 
 I am genuinely delighted to have uncovered this exciting world of possibilities within the sector, and I am eager to contribute to its growth and innovation.
 
+Check [my portfolio](https://emilialopez.github.io/). 
 
 Also,
 - ✨ I'm a hiking and running lover because both activities make me feel free and challenged.
