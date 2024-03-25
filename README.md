@@ -1,10 +1,11 @@
 ### Hi there! 👋
 
-Over the course of four years, I've immersed myself in fast-paced projects at renowned companies such as Meta and Bet365, acquiring a versatile skill set. It was during these engagements that my passion for programming  and data ignited, fueling my relentless curiosity to uncover insights that drive strategic business decisions.
+Over the course of four years, I've immersed myself in fast-paced projects at renowned companies such as Meta and Bet365, acquiring a versatile skill set 
+within the corporate world. It was during these engagements that my passion for programming  and data ignited, fueling my relentless curiosity to uncover insights that drive strategic business decisions.
 
 Currently, I continue to improve my technical programming skills while working as a Software QA Tester, helping to enhance the software life cycle of banking applications.
 
-I am genuinely delighted to have uncovered this exciting world of possibilities within the sector, and I am eager to contribute to its growth and innovation.
+I am genuinely delighted to have uncovered this exciting world of possibilities within the sector and I am eager to contribute to its growth and innovation.
 
 Check [my portfolio](https://emilialopez.github.io/). 
 
